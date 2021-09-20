@@ -3,7 +3,8 @@ Some of my projects on computer vision.
 
 All these are non-guided projects.
 
-**CNN The Simpsons classification project** (simpsonsCNN.ipynb): <br> Building a classificator that detects 20 different characters from The Simpsons.<br>
+### **CNN The Simpsons classification project** <br> (simpsonsCNN.ipynb): <br> 
+Building a classificator that detects 20 different characters from The Simpsons.<br>
 Techniques used:<br>
 * Convolutional Neural Networks modeling
 * Batch training
@@ -22,7 +23,8 @@ It was also interesting to see how different models reacted to external data, su
 <br>
 <img width="556" alt="Screen Shot 2021-09-20 at 11 04 38 AM" src="https://user-images.githubusercontent.com/58253310/133978820-6dacc833-3a11-43e1-b52f-efbaee22b86b.png">
 
-**Coronavirus CNN radiography diagnosis and localization project** (covid_xray-2.ipynb): <br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
+### **Coronavirus CNN radiography diagnosis and localization project** <br>(covid_xray-2.ipynb): 
+<br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
 Techniques used:
 * Modeling
 * Batch training
@@ -37,7 +39,8 @@ It's also able to localize where the CNN was able to see the patterns to classif
 
 ![Unknown](https://user-images.githubusercontent.com/58253310/133980043-c485f0e1-c97f-45ab-9d8c-b1daeeb3d773.png)
 
-**3D image processing and analysis** (rock_porosity.ipynb):<br> Not ComputerVision per se, but a very important part of it as in this project analyzes a 3D image of a rock, segmentates it and analyzes its porosity.
+### **3D image processing and analysis** <br> (rock_porosity.ipynb):<br> 
+Not ComputerVision per se, but a very important part of it as in this project analyzes a 3D image of a rock, segmentates it and analyzes its porosity.
 Techniques used:
 * Image analysis
 * Segmentation
