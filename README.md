@@ -6,7 +6,9 @@ All these are non-guided projects.
 **CNN The Simpsons classification project** (simpsonsCNN.ipynb): <br> Building a classificator that detects 20 different characters from The Simpsons.<br>
 Techniques used:<br>
 * Convolutional Neural Networks modeling
+* Batch training
 * Data augmentation
+* Fine-tuning
 * Transfer learning
 <br>
 It's a quite challenging project given the nature of the images, every character is presented in a variety of situations with different backgrounds, different angles, different facial expressions and sometimes even different outfits.
@@ -23,6 +25,8 @@ It was also interesting to see how different models reacted to external data, su
 **Coronavirus CNN radiography diagnosis and localization project** (covid_xray-2.ipynb): <br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
 Techniques used:
 * Modeling
+* Batch training
+* Fine tuning
 * Transfer learning
 * Class activation map
 <br>
