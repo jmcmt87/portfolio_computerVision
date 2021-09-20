@@ -42,10 +42,7 @@ Techniques used:
 3D representation of the pores:
 <br>
 <img width="911" alt="Screen Shot 2021-09-20 at 10 23 48 AM" src="https://user-images.githubusercontent.com/58253310/133980482-8522ffcc-3479-4bbc-8860-cecd69b5aa0c.png">
-<br>
-Image pixel analysis of one of the cuts:
-<br>
-![Unknown-4](https://user-images.githubusercontent.com/58253310/133980658-d05bebbe-ed8a-473b-b34a-6ccbd2bc9767.png)
+
 
 
 
