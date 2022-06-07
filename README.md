@@ -23,7 +23,7 @@ It was also interesting to see how different models reacted to external data, su
 <br>
 <img width="556" alt="Screen Shot 2021-09-20 at 11 04 38 AM" src="https://user-images.githubusercontent.com/58253310/133978820-6dacc833-3a11-43e1-b52f-efbaee22b86b.png">
 
-### **Coronavirus CNN radiography diagnosis and localization project** <br>(covid_xray-2.ipynb): 
+### **Coronavirus CNN radiography diagnosis and localization project** <br>(covid_xray-3.ipynb): 
 <br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
 Techniques used:
 * Modeling
