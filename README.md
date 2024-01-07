@@ -3,6 +3,22 @@ Some of my projects on computer vision.
 
 All these are non-guided projects.
 
+### **Coronavirus CNN radiography diagnosis and localization project** <br>(covid_xray-3.ipynb): 
+<br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
+Techniques used:
+* Modeling
+* Batch training
+* Fine tuning
+* Transfer learning
+* Class activation map
+<br>
+The model created is able to correctly diagnose with an accuracy of 95.25% on the test set (99.98% and 98.4% on the traning and validation sets respectively.
+It's also able to localize where the CNN was able to see the patterns to classify each radiography as covid negative or covid positive.
+<br>
+<br>
+
+![Unknown](https://user-images.githubusercontent.com/58253310/133980043-c485f0e1-c97f-45ab-9d8c-b1daeeb3d773.png)
+
 ### **CNN The Simpsons classification project** <br> (simpsonsCNN.ipynb): <br> 
 Building a classificator that detects 20 different characters from The Simpsons.<br>
 Techniques used:<br>
@@ -22,22 +38,6 @@ It was also interesting to see how different models reacted to external data, su
 <br>
 <br>
 <img width="556" alt="Screen Shot 2021-09-20 at 11 04 38 AM" src="https://user-images.githubusercontent.com/58253310/133978820-6dacc833-3a11-43e1-b52f-efbaee22b86b.png">
-
-### **Coronavirus CNN radiography diagnosis and localization project** <br>(covid_xray-3.ipynb): 
-<br>Project built using a compilation of different data sources all around the world with more than 16,000 lungs radiography.<br>
-Techniques used:
-* Modeling
-* Batch training
-* Fine tuning
-* Transfer learning
-* Class activation map
-<br>
-The model created is able to correctly diagnose with an accuracy of 95.25% on the test set (99.98% and 98.4% on the traning and validation sets respectively.
-It's also able to localize where the CNN was able to see the patterns to classify each radiography as covid negative or covid positive.
-<br>
-<br>
-
-![Unknown](https://user-images.githubusercontent.com/58253310/133980043-c485f0e1-c97f-45ab-9d8c-b1daeeb3d773.png)
 
 ### **3D image processing and analysis** <br> (rock_porosity.ipynb):<br> 
 Not ComputerVision per se, but a very important part of it as in this project analyzes a 3D image of a rock, segmentates it and analyzes its porosity.
