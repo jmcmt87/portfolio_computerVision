@@ -19,6 +19,17 @@ It's also able to localize where the CNN was able to see the patterns to classif
 
 ![Unknown](https://user-images.githubusercontent.com/58253310/133980043-c485f0e1-c97f-45ab-9d8c-b1daeeb3d773.png)
 
+### **3D image processing and analysis** <br> (rock_porosity.ipynb):<br> 
+Not ComputerVision per se, but a very important part of it as in this project analyzes a 3D image of a rock, segmentates it and analyzes its porosity.
+Techniques used:
+* Image analysis
+* Segmentation
+* Porosity calculation
+<br>
+3D representation of the pores:
+<br>
+<img width="911" alt="Screen Shot 2021-09-20 at 10 23 48 AM" src="https://user-images.githubusercontent.com/58253310/133980482-8522ffcc-3479-4bbc-8860-cecd69b5aa0c.png">
+
 ### **CNN The Simpsons classification project** <br> (simpsonsCNN.ipynb): <br> 
 Building a classificator that detects 20 different characters from The Simpsons.<br>
 Techniques used:<br>
@@ -39,16 +50,7 @@ It was also interesting to see how different models reacted to external data, su
 <br>
 <img width="556" alt="Screen Shot 2021-09-20 at 11 04 38 AM" src="https://user-images.githubusercontent.com/58253310/133978820-6dacc833-3a11-43e1-b52f-efbaee22b86b.png">
 
-### **3D image processing and analysis** <br> (rock_porosity.ipynb):<br> 
-Not ComputerVision per se, but a very important part of it as in this project analyzes a 3D image of a rock, segmentates it and analyzes its porosity.
-Techniques used:
-* Image analysis
-* Segmentation
-* Porosity calculation
-<br>
-3D representation of the pores:
-<br>
-<img width="911" alt="Screen Shot 2021-09-20 at 10 23 48 AM" src="https://user-images.githubusercontent.com/58253310/133980482-8522ffcc-3479-4bbc-8860-cecd69b5aa0c.png">
+
 
 
 
